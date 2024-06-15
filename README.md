@@ -56,7 +56,7 @@ Este proyecto utiliza como base un dataset de radiografías de tórax de niños 
    
 -  Una vez que el servidor de la API esté en funcionamiento, abre en tu navegador la dirección IP que te indique el entorno virtual.
 
--  Para hacer las predicciones puedes utilizar las imágenes que se encuentran en el siguiente enlace:
+-  Para hacer las predicciones puedes descargar y utilizar algunas de las imágenes que se encuentran en el siguiente enlace:
   
    https://drive.google.com/drive/folders/1PAq-0GYDzyJonPPt-_XfywslH2xnWZpe?usp=sharing  
 
@@ -64,7 +64,7 @@ Este proyecto utiliza como base un dataset de radiografías de tórax de niños 
 
 Una vez que la aplicación esté en funcionamiento, puedes acceder a ella desde tu navegador visitando la dirección IP que te indique el entorno virtual. 
 
-La aplicación te proporcionará una interfaz interactiva donde podrás ingresar la imagen que quieres analizar y la carpeta donde se encuentra esta (por ejemplo, 'C:\Users\catyc\Downloads\img', agregándole un '\' al final) y obtener predicciones si la imagen muestra signos de neumonía o no.
+La aplicación te proporcionará una interfaz interactiva donde podrás ingresar la imagen que quieres analizar y la carpeta donde se encuentra esta (por ejemplo, "C:\Users\catyc\Downloads\img", agregándole una barra invertida \ al final) y obtener predicciones si la imagen muestra signos de neumonía o no.
 
 #  Estructura de directorios
 
