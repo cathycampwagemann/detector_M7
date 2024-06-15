@@ -54,7 +54,7 @@ Este proyecto utiliza como base un dataset de radiografías de tórax de niños 
    
 6. Hacer predicciones
    
--  Una vez que el servidor de la API esté en funcionamiento, navega a la dirección IP que te indique el entorno virtual.
+-  Una vez que el servidor de la API esté en funcionamiento, abre en tu navegador la dirección IP que te indique el entorno virtual.
 
 -  Para hacer las predicciones puedes utilizar las imágenes que se encuentran en el siguiente enlace:
   
@@ -70,7 +70,7 @@ La aplicación te proporcionará una interfaz interactiva donde podrás ingresar
 
 1. 'app/': Contiene los archivos de la aplicación Flask.
    
-2. 'experimentos/': Contiene notebooks con el resumen ejecutivo, el análisis y exploración de los datos, la transformación      de las imágenes y el entrenamiento, prueba y validación del modelo, el prototipo y los resultados y conclusiones.
+2. 'experimentos/': Contiene notebooks con el resumen ejecutivo, el análisis y exploración de los datos, la transformación      de las imágenes y el entrenamiento, prueba y validación      del modelo, el prototipo y los resultados y conclusiones.
 
 3. 'modelo/': Contiene el modelo de clasificación de clasificación entrenado, que también se puede encontrar en el 
    siguiente enlace: https://drive.google.com/file/d/1Ed9g2Rj_k7CPF8ClBalaYfDhfbNlsuTC/view?usp=drive_link.
