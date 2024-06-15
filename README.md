@@ -22,7 +22,7 @@ Este proyecto utiliza como base un dataset de radiografías de tórax de niños 
    
 -  Crea un entorno virtual llamado 'detector_neumonia' usando la herramienta de tu preferencia (por ejemplo, conda):
 
-   conda create --name detector_neumonia
+   conda create --name detector_neumonia python=3.11.9
 
 -  Activa el entorno virtual:
   
