@@ -32,12 +32,13 @@ Este proyecto utiliza como base un dataset de radiografías de tórax de niños 
    
 -  Clona este repositorio en tu máquina local:
   
-   https://github.com/cathycampwagemann/detector_M7.git
+   git clone https://github.com/cathycampwagemann/detector_M7.git
    
--  Selecciona la branch "principal":
+-  Selecciona la carpeta "app":
 
    cd detector_M7
-   git checkout principal
+   
+   cd app
    
 4. Instalar Requisitos
 
