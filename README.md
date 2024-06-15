@@ -64,7 +64,7 @@ Este proyecto utiliza como base un dataset de radiografías de tórax de niños 
 
 Una vez que la aplicación esté en funcionamiento, puedes acceder a ella desde tu navegador visitando la dirección IP que te indique el entorno virtual. 
 
-La aplicación te proporcionará una interfaz interactiva donde podrás ingresar la imagen que quieres analizar y la carpeta donde se encuentra esta (por ejemplo, 'C:\Users\catyc\Downloads\img\') y obtener predicciones si la imagen muestra signos de neumonía o no.
+La aplicación te proporcionará una interfaz interactiva donde podrás ingresar la imagen que quieres analizar y la carpeta donde se encuentra esta (por ejemplo, 'C:\Users\catyc\Downloads\img', agregándole un '\' al final) y obtener predicciones si la imagen muestra signos de neumonía o no.
 
 #  Estructura de directorios
 
