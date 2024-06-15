@@ -48,10 +48,6 @@ Este proyecto utiliza como base un dataset de radiografías de tórax de niños 
 
 5. Ejecutar API
 
--  Selecciona la carpeta "app"
-
-   cd app  
-
 -  Ejecuta el script `api.py` para iniciar el servidor de la API:
 
    python api.py
