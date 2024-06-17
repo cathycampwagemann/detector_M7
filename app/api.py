@@ -8,14 +8,11 @@ import cv2
 app = Flask(__name__)
 
 
-# URL del archivo en Google Drive
 url = 'https://drive.google.com/uc?id=1Ed9g2Rj_k7CPF8ClBalaYfDhfbNlsuTC'
 
-# Descargar el archivo y guardarlo localmente
 output = 'mejor_modelo.pth'
 gdown.download(url, output, quiet=False)
 
-# Cargar el modelo y moverlo al dispositivo adecuado (CPU o GPU)
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 modelo = CustomDenseNet(num_classes=2)
 modelo.load_state_dict(torch.load(output, map_location=device))
